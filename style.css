@@ -434,22 +434,6 @@ article .icon {
    height: 2rem;
 }
 
-/* Services */
-
-#services {
-   position: relative;
-   height: 30vh;
-}
-
-.services-img {
-   border-radius: 2rem;
-   width: 40%;
-   height: 40%;
-   margin-bottom: 3rem;
-}
-
-
-
 /*Footer */
 
 footer {
