@@ -320,7 +320,9 @@ section {
 }
 
 .text-container {
-   
+   flex-wrap: wrap;
+   text-align: justify;
+   font-size: 1.75rem;
 }
 
 /* Experience */
