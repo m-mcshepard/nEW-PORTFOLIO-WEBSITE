@@ -403,6 +403,17 @@ article .icon {
    padding: 10px;
 }
 
+/* Currently Working On*/
+
+#recents {
+   position: relative;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   height: 70vh;
+}
+
+
 /* Contact */
 
 #contact {
